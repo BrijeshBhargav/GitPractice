@@ -12,5 +12,9 @@ namespace GitPractice
         {
             Console.WriteLine("hello");
         }
+         public void test2()
+        {
+            Console.WriteLine("hello parctice");
+        }
     }
 }
