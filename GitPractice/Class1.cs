@@ -24,5 +24,9 @@ namespace GitPractice
         {
             Console.WriteLine("hello parctice ");
         }
+         public void test5()
+        {
+            Console.WriteLine("hii ");
+        }
     }
 }
